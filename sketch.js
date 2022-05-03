@@ -140,6 +140,6 @@ function draw() {
   }
 
   // dibujar elipse
-    triangle(x1, y1, x2, y2, x3, y3);
+    triangle(250, 250, , 250, 250, 250);
   
 }
