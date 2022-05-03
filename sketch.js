@@ -136,7 +136,7 @@ function draw() {
   else {
 
      // potenciómetro controla cantidad de verde
-    fill(0, colorPotenciometro, 0);
+    fill(0, 0, colorPotenciometro);
   }
 
   // dibujar elipse
