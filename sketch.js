@@ -130,7 +130,7 @@ function draw() {
   if (datosSeparados[0] == 0) {
 
     // potenciómetro controla cantidad de rojo
-    fill(colorPotenciometro, 0, 100);
+    fill(colorPotenciometro, 0, 255);
   }
   // si el botón está presionado
   else {
